@@ -25,3 +25,6 @@ Automailfishing.bat text   //发送text文本的内容，data目录下mailtext.t
 Automailfishing.bat html   //发送html格式的内容，放置于data目录下mailhtml.html
 
 Automailfishing.bat makemail baidu.com  //生成目域名姓名top500邮箱
+
+
+此版本为18年临时任务创建，近期我会更新更加便捷自动化的版本
